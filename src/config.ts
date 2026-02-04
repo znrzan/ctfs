@@ -40,7 +40,7 @@ export const APP = {
 
   // Base URL (otomatis ambil dari env kalau ada)
   baseUrl:
-    process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000', // opsional fallback
+    process.env.NEXT_PUBLIC_SITE_URL || 'https://ctf.ozanqs.my.id', // opsional fallback
   image_icon: 'favicon.ico',
   image_preview: 'og-image.png',
 
